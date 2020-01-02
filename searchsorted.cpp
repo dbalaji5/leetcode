@@ -82,10 +82,3 @@ int main()
 	return 0;
 }
 
-//processed,soy and frozen pre packaged foods cruciferous vegetables
-
-
-//big 3 compound movements squat bench press deadlift military press 80% max 90 sec break
-//steaks,bison,salmon,avocados,coconut oil,whole eggs,almonds
-
-//saturated fats 40%fat higher testosterone 
